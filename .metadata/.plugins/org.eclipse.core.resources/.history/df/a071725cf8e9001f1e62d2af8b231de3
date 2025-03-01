@@ -1,0 +1,5 @@
+package pureabstraction;
+
+public interface Color {
+
+}
