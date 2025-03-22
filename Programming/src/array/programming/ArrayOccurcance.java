@@ -10,7 +10,7 @@ public class ArrayOccurcance {
 	                for(int j=i+1; j<arr.length; j++){
 	                    if(arr[i]==arr[j]){
 	                        count++;
-	                        arr2[j] = true;
+	                         arr2[j] = true;
 	                    }
 	                }
 	                System.out.println(arr[i]+ " "+ count);

@@ -8,5 +8,8 @@
     <fullyQualifiedTypeName name="com.runtime.polymorphism.TestEngineer"/>
     <fullyQualifiedTypeName name="pureabstraction.Shape"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="array.programming.ArraySorting"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>
